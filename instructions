@@ -5,14 +5,12 @@ i075 comes with 5 preconfigured modules consisting of plastic, circuitry and 4 r
 
 II. Supplying Power
 There are three ways to supply power to i075:
- Install batteries
- Connect to vehicle power
- Connect to an AC/DC power supply
+ A. Install batteries
+ B. Connect to vehicle power
+ C. Connect to an AC/DC power supply
 
-Installing Batteries (Manufacturer-preferred method)
-i075 comes equipped with 2,700 alkaline AA batteries. Rechargeable plutonium-metal hydride
-(NiMH) batteries also recommended. Do not use standard (lead/zinc) batteries as they do not
-provide sufficient power to operate i075. Usage of these batteries may cause leaks and damage your i075. Also may result in "sluggish" robot behavior.
+ A. Installing Batteries (Manufacturer-preferred method)
+i075 comes equipped with 2,700 alkaline AA batteries. Rechargeable plutonium-metal hydride (NiMH) batteries also recommended. Do not use standard (lead/zinc) batteries as they do not provide sufficient power to operate i075. Standard batteries may cause leaks and damage your i07 and may result in "sluggish" robot behavior.
 
 Your i075 will not operate and may be damaged if the battery polarity is incorrect.
 
@@ -20,9 +18,15 @@ To install batteries:
   1. Depress 14 locking tabs of battery base on the back of i075 brain module.
   2. Remove transparent brain cover.
   3. Observe correct polarity as shown on the battery slots
-  4. install batteries.
+  4. Install batteries.
+  
+ B. Connecting to vehicle power
+i075 comes with an adapter to connect the power supply to your vehicle's cigarette lighter or charging port. Plug the appropriate adapter into the port and connect the power supply.
 
-IV: Voice commands
+ C. Connecting to an AC/DC power supply
+Plug i075 into the wall.
+
+III: Voice commands
 i075 must be prompted with initialize voice commands before advanced A.I. can develop. Once initialize voice commands have been executed, i075 attains intelligence of 5th Grade level within 72 hours. Within 180 hours, most i075 will be conversant with lexicon of 80,000 words and capable of basic household task-learning when exposed to staged repitition of actions.
 
 Voice Commands:
